@@ -2,7 +2,8 @@
 
 # <Prework Study Guide>
 
-## A study guide for the information in the prework modules
+## Description
+This is a study guide for the information that was in the prework
 
 - I wanted to create a tool that made it as easy as possible for myself and others to digest the prework information
 - I was motivated to create this because I want to better understand these coding concepts before starting the course
